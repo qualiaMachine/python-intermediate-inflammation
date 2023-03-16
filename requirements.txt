@@ -7,6 +7,7 @@ charset-normalizer==3.1.0
 cleo==2.0.1
 colorama==0.4.6
 contourpy==1.0.7
+coverage==7.2.1
 crashtest==0.4.1
 cycler==0.11.0
 dill==0.3.6
@@ -17,7 +18,7 @@ fonttools==4.39.0
 html5lib==1.1
 idna==3.4
 importlib-metadata==6.0.0
--e git+ssh://git@github.com/qualiaMachine/python-intermediate-inflammation.git@dfc2206c684ceb0593d2c619cfd5a5ec01b92a48#egg=inflammation
+-e git+ssh://git@github.com/qualiaMachine/python-intermediate-inflammation.git@22ac1d2068b86120ffc30415751360c0072c4caf#egg=inflammation
 iniconfig==2.0.0
 installer==0.6.0
 isort==5.12.0
@@ -47,6 +48,7 @@ pyparsing==3.0.9
 pyproject_hooks==1.0.0
 pyrsistent==0.19.3
 pytest==7.2.2
+pytest-cov==4.0.0
 python-dateutil==2.8.2
 pywin32-ctypes==0.2.0
 rapidfuzz==2.13.7
